@@ -1,7 +1,7 @@
 from django.http import HttpResponse
 
 def demo(request):
-    return HttpResponse("hello world")
+    return HttpResponse("welcome to the world")
 
 
 def demo1(request):
