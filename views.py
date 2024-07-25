@@ -1,6 +1,6 @@
 from django.http import HttpResponse
 
-def demo(request):
+def demo0(request):
     return HttpResponse("welcome to the world")
 
 
